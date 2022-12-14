@@ -1,5 +1,7 @@
+[![masterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)]
 <h1 align="center">Hi 👋, I'm Albert Solomon Phiri aka The IT Howler</h1>
 <h3 align="center">A passionate Full stack developer who thrives at solving problems</h3>
+<img alt="programming-gif" width="400" src="https://media1.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif?cid=ecf05e47ejjz7o3la9d84suqplatihimzy9mcqtx4w5hgobr&rid=giphy.gif&ct=g" />
 
 - 🌱 I’m currently learning **React, Typescript, Node.js, Go and Rust**
 
