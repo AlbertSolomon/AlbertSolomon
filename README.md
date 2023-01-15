@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Python and Front-End Development.**
 
-- ⚡ Fun fact **I love learning new things (New Technologies)**
+- ⚡ Fun fact **I love ❤️ learning new things (New Technologies)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
