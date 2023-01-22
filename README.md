@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React, Typescript, Node.js, Go and Rust**
 
-- 💬 Ask me about **Python and Front-End Development.**
+- 💬 Ask me about **Python, django and Front-End Development.**
 
 - ⚡ Fun fact **I love ❤️ learning new things (New Technologies)**
 
