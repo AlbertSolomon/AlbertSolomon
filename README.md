@@ -32,7 +32,7 @@
 
 <!--[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=theITHowler)](https://twitter.com/theTechHowler)-->
 
-### :fire: My Stats :
+<h3 align="center"> 🔥 My Stats </h3>
 
 
 <div align="center">
