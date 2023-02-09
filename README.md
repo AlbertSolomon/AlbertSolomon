@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://tenor.com/view/bahroo-hacker-panda-hacking-cool-gif-15741061"/></div>
+<img src="https://tenor.com/bec8f.gif"/></div>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/albert-solomon-122766170?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bu8Rm1kX8TXuD1kPdRU%2FOAA%3D%3D">
