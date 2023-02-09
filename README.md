@@ -30,6 +30,8 @@
 
 - ⚡ Fun fact **I love ❤️ learning new things (New Technologies)**
 
-
-
 <!--[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=theITHowler)](https://twitter.com/theTechHowler)-->
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlbertSolomon&theme=dark&background=000000)](https://git.io/streak-stats)
