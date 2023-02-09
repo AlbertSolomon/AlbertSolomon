@@ -24,11 +24,16 @@
 
 <!--<img align="right" alt="programming-gif" width="400" src="https://media1.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=ecf05e47mc8a4x9bon80ri3xiebrtoov7e9yedyrp9xv77mc&rid=giphy.gif&ct=g" />-->
 
-- 🌱 I’m currently learning **React, Typescript, Node.js, Go and Rust**
+<div align="center">
 
-- 💬 Ask me about **Python, django and Front-End Development.**
+    - 🌱 I’m currently learning **React, Typescript, Node.js, Go and Rust**
 
-- ⚡ Fun fact **I love ❤️ learning new things (New Technologies)**
+    - 💬 Ask me about **Python, django and Front-End Development.**
+
+    - ⚡ Fun fact **I love ❤️ learning new things (New Technologies)**
+
+</div>
+
 
 <!--[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=theITHowler)](https://twitter.com/theTechHowler)-->
 
