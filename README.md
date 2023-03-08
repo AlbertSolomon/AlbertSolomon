@@ -21,7 +21,7 @@
 </div>
 
 
-<h1 align="center">Hi 👋, I'm Albert Solomon Phiri a.k.a The IT Howler 🐺</h1>
+<h1 align="center">Hi <img src="https://github.com/AlbertSolomon/AlbertSolomon/blob/main/assets/200.gif" width="50" height="50">, I'm Albert Solomon Phiri a.k.a The IT Howler 🐺</h1>
 
 
 <h3 align="center">A passionate Full stack developer who thrives at solving problems</h3>
