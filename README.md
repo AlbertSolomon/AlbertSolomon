@@ -21,7 +21,7 @@
 </div>
 
 
-<h1 align="center">Hi 👋, I'm Albert Solomon Phiri a.k.a The IT Howler</h1>
+<h1 align="center">Hi 👋, I'm Albert Solomon Phiri a.k.a The IT Howler 🐺</h1>
 
 
 <h3 align="center">A passionate Full stack developer who thrives at solving problems</h3>
@@ -41,7 +41,7 @@
 
 <!--[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=theITHowler)](https://twitter.com/theTechHowler)-->
 
-<h3 align="center"> 🔥 My Stats </h3>
+<h3 align="center">⚡ STATS ⚡</h3>
 
 
 <div align="center">
