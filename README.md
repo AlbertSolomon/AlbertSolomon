@@ -24,7 +24,7 @@
 <h1 align="center"> <img src="https://github.com/AlbertSolomon/AlbertSolomon/blob/main/assets/200.gif" width="35" height="35"> I'm Albert Solomon Phiri / The IT Howler.</h1>
 
 
-<h3 align="center">A passionate Full stack developer who thrives at solving problems</h3>
+<h3 align="center">A passionate Full Stack Software Engineer who thrives at solving problems 😎</h3>
 
 <!--<img align="right" alt="programming-gif" width="400" src="https://media1.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=ecf05e47mc8a4x9bon80ri3xiebrtoov7e9yedyrp9xv77mc&rid=giphy.gif&ct=g" />-->
 
