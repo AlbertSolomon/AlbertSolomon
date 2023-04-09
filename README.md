@@ -45,7 +45,7 @@
 
 <p align="center">
 <img align="right" hieght="300" src="https://github.com/AlbertSolomon/AlbertSolomon/blob/main/assets/wolf-howling.gif"/>
-<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=AlbertSolomon&theme=bear&background=000000"/>
+<img align="center" height="150" src="http://github-readme-streak-stats.herokuapp.com?user=AlbertSolomon&theme=bear&background=000000"/>
 </p>
 
 
