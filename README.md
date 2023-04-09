@@ -44,18 +44,21 @@
 <h3 align="center">⚡ STATS ⚡</h3>
 
 <p align="center">
-<img align="" hieght="300" src="https://github.com/AlbertSolomon/AlbertSolomon/blob/main/assets/wolf-howling.gif"/></p>
-
-<img align="center" height="170" src="http://github-readme-streak-stats.herokuapp.com?user=AlbertSolomon&theme=bear&background=000000"/>
-<img align="right"src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertSolomon&layout=compact&theme=bear"/>
+  <img height="150" width="150" src="WEBP/left.webp">
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=AlbertSolomon&theme=bear&background=000000"/>
+  <img height="150" width="150" src="WEBP/right.webp">
 </p>
 
+<p align="center">
+
+<img align="center" height="205" src="https://github-readme-stats.vercel.app/api?username=AlbertSolomon&layout=compact&theme=bear&show_icons=true"/>
+</p>
 
 <div align="center">
 
-<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlbertSolomon&theme=bear&background=000000)](https://git.io/streak-stats)-->
+<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlbertSolomon&theme=bear&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertSolomon&layout=compact&theme=bear)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlbertSolomon&layout=compact&theme=bear&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+</div>-->
