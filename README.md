@@ -43,6 +43,10 @@
 
 <h3 align="center">⚡ STATS ⚡</h3>
 
+<p align="center">
+<img align="left" src="https://github.com/AlbertSolomon/AlbertSolomon/blob/main/assets/wolf-howling.gif"/>
+</p>
+
 
 <div align="center">
 
