@@ -45,12 +45,13 @@
 
 <p align="center">
 <img align="right" hieght="300" src="https://github.com/AlbertSolomon/AlbertSolomon/blob/main/assets/wolf-howling.gif"/>
+<img src="http://github-readme-streak-stats.herokuapp.com?user=AlbertSolomon&theme=bear&background=000000"/>
 </p>
 
 
 <div align="center">
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlbertSolomon&theme=bear&background=000000)](https://git.io/streak-stats)
+<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlbertSolomon&theme=bear&background=000000)](https://git.io/streak-stats)-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertSolomon&layout=compact&theme=bear)](https://github.com/anuraghazra/github-readme-stats)
 
