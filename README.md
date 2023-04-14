@@ -49,10 +49,10 @@
   <img height="150" width="150" src="WEBP/right.webp">
 </p>
 
-<p align="center">
 
-<img align="center" height="205" src="https://github-readme-stats.vercel.app/api?username=AlbertSolomon&layout=compact&theme=bear&show_icons=true"/>
-</p>
+ <a align="center" href="https://github.com/AlbertSolomon">
+    <img alt="Albert Solomon Github Stats" src="https://github-readme-stats.vercel.app/api?username=AlbertSolomon&layout=compact&theme=bear&show_icons=true" /></a>
+  <a href="https://github.com/AlbertSolomon"><img height="195" alt="Albert's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertSolomon&layout=compact&theme=bear" /></a>
 
 <div align="center">
 
