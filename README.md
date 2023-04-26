@@ -64,4 +64,4 @@
 </div>-->
 <img src="profile-3d-contrib/profile-night-rainbow.svg"/>
 
-# footer goes here..
+<!-- footer goes here.. -->
