@@ -68,4 +68,3 @@
 <img src="profile-3d-contrib/profile-night-rainbow.svg"/>
 
 <!-- footer goes here.. -->
-<img width="35" height="20" align="center" src="/assets/zeudev_circles.png" alt="circles">
