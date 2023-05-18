@@ -23,9 +23,6 @@
 
 <h1 align="center"> <img src="https://github.com/AlbertSolomon/AlbertSolomon/blob/main/assets/200.gif" width="35" height="35"> I'm Albert Solomon Phiri / The IT Howler.</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00AEFF&center=true&width=490&height=60&lines=+I'm+Albert+Solomon+Phiri+%2F+The+IT+Howler.;I'm+a+passionate+Full+Stack+Software+Engineer+who+thrives+at+solving+problems.)](https://git.io/typing-svg)
-
-
 <h3 align="center">A passionate Full Stack Software Engineer who thrives at solving problems <img src="https://github.com/AlbertSolomon/AlbertSolomon/blob/main/assets/tenor.gif" width="25" height="25" align="bottom"></h3>
 
 <!--<img align="right" alt="programming-gif" width="400" src="https://media1.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=ecf05e47mc8a4x9bon80ri3xiebrtoov7e9yedyrp9xv77mc&rid=giphy.gif&ct=g" />-->
