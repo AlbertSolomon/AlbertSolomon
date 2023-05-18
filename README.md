@@ -62,10 +62,10 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlbertSolomon&layout=compact&theme=bear&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 </div>-->
+
+<img width="40" height="20" align="center" src="/assets/zeudev_circles.png" alt="circles">
+
 <img src="profile-3d-contrib/profile-night-rainbow.svg"/>
 
 <!-- footer goes here.. -->
-<img width="40" height="20" align="right" src="/assets/zeudev_circles.png" alt="circles">
-<img width="60" height="30" align="center" src="/assets/zeudev_circles.png" alt="circles">
-<img width="60" height="30" align="center" src="/assets/zeudev_circles.png" alt="circles">
-<img width="40" height="20" align="left" src="/assets/zeudev_circles.png" alt="circles">
+<img width="35" height="20" align="center" src="/assets/zeudev_circles.png" alt="circles">
