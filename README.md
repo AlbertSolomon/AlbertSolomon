@@ -5,7 +5,7 @@
 <img width="150" src="https://media.tenor.com/lNtmoshuUI8AAAAi/bahroo-hacker.gif"/></div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/albert-solomon-122766170?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bu8Rm1kX8TXuD1kPdRU%2FOAA%3D%3D">
+  <a href="www.linkedin.com/in/albert-solomon-122766170">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <!--
