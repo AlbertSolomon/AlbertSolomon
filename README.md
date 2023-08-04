@@ -56,7 +56,11 @@
 <img src="profile-3d-contrib/profile-night-rainbow.svg"/>
 
 </div>
+
 <!--<h3 align="center">🧰 Tools </h3>-->
+
+<div align="center">
+
 <img src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine" alt="Godot">
 
 <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)" alt="steam">
@@ -73,6 +77,8 @@
 
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 
-<img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" alt="fedora"> 
+<img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" alt="fedora">
+
+</div>
 
 <!-- footer goes here.. -->
