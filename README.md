@@ -37,7 +37,6 @@
   <img height="150" width="150" src="WEBP/right.webp">
 </p>
 
-
  <a align="center" href="https://github.com/AlbertSolomon">
     <img alt="Albert Solomon Github Stats" src="https://github-readme-stats.vercel.app/api?username=AlbertSolomon&layout=compact&theme=bear&show_icons=true" /></a>
   <a href="https://github.com/AlbertSolomon"><img height="195" alt="Albert's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertSolomon&layout=compact&theme=bear" /></a>
@@ -63,8 +62,6 @@
 
 <img src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine" alt="Godot">
 
-<!--<img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)" alt="steam">-->
-
 <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)" alt="Neovim">
 
 <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio">
@@ -76,9 +73,6 @@
 <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" alt="fedora">
 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-
-<!--<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">-->
-
 
 </div>
 
